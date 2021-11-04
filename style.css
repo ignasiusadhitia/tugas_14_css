@@ -5,6 +5,7 @@
 .container,
 .container2,
 .container3 {
+  background: #ecf0f1;
   display: flex;
 }
 
